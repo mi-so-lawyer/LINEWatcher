@@ -1,4 +1,3 @@
-# LINEWatcher
 # LINEWatcher ✨
 
 LINE画像を「保存するだけ」で自動命名、自動移動。もうメンドくさい保存はさようなら！
