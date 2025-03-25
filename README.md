@@ -86,3 +86,14 @@ STEP 3: リネーム＋保存完了通知
 
 MIT License
 
+> 🆕 **2025年3月更新：PDF対応しました！**
+
+拡張子が付かないLINE画像・PDFを、自動で正しくリネーム・整理するツールです。
+
+✅ 画像もPDFも保存するだけで自動判別  
+✅ 日時＋通し番号で命名して保存先へ移動  
+✅ 拡張子のない画像でも自動で `.jpg` に変換  
+✅ `.pdf` ファイルにも完全対応！（v1.1.0～）
+
+📦 最新版（実行ファイル入り）はこちら  
+👉 [Releases](https://github.com/mi-so-lawyer/LINEWatcher/releases/latest)
