@@ -95,5 +95,14 @@ MIT License
 ✅ 拡張子のない画像でも自動で `.jpg` に変換  
 ✅ `.pdf` ファイルにも完全対応！（v1.1.0～）
 
-📦 最新版（実行ファイル入り）はこちら  
-👉 [Releases](https://github.com/mi-so-lawyer/LINEWatcher/releases/latest)
+> 🆕 **2025年4月更新：Word，Excel対応しました！**
+
+
+📢 LINEWatcher v1.2.0 を公開しました！
+
+✅ PDF・Word・Excel ファイルも中身で自動判定して正しい拡張子を付けて保存  
+✅ `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.png` に対応！  
+✅ 保存するだけで自動リネーム → 自動移動 → 通知表示！
+
+
+
